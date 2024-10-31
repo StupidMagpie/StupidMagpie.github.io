@@ -12,3 +12,4 @@ author:
 paginate: 10
 owner: mzh
 year: 2024
+markdown: kramdown
