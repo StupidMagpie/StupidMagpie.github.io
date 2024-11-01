@@ -16,7 +16,7 @@
 title: Home of Stupid Magpie
 author: "mzh"
 email: "mzhm803@gmail.com"
-description: 人生如逆旅，我亦是行人
+description: The Blog of mzh
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://stupidmagpie.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -37,7 +37,7 @@ theme_switch: on         # Show color switch (on | off)
 blog: on                 # Show blog tag and post list (on | off)
 avatar: on               # Show avatar (on | off)
 avatar_image: "assets/img/avatar.jpg"
-avatar_description: "My name is Popotato and I'm a HACKER."
+avatar_description: "人生如逆旅，我亦是行人"
 highlighter_theme: gruvbox  # Theme of the syntax_highlighter [base16 |
                             # colorful | github | gruvbox | molokai |
                             # monokai | pastie | thankful_eyes | tulip ]
