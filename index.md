@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Potato Hacker
-description: Test page
+title: Home of 9vvert
+description: 9vvert的博客
 ---
 # Lorem ipsum
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
