@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Home of Stupid Magpie
+title: Home of 9vvert
 author: "mzh"
 email: "mzhm803@gmail.com"
-description: The Blog of mzh
+description: The Blog of 9vvert
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://stupidmagpie.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -42,9 +42,10 @@ highlighter_theme: gruvbox  # Theme of the syntax_highlighter [base16 |
                             # colorful | github | gruvbox | molokai |
                             # monokai | pastie | thankful_eyes | tulip ]
 toolbar_priority:        # Order of the items in the toolbar (except for blog and home)
-  - dropdown2
-  - About
   - dropdown1
+  - dropdown2
+  - aaa
+  - About
 
 # Collections
 collections:
